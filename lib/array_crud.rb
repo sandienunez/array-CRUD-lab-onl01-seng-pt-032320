@@ -6,7 +6,7 @@ def create_an_array
   ["orange", "apple", "grapes", "blueberries"]
 end
 
-def add_element_to_end_of_array(array, element)
+def add_element_to_end_of_array(timmy, dog)
 end
   
 
